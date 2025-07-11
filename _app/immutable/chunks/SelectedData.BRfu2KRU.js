@@ -1,0 +1,1 @@
+import{d as r,w as i}from"./index.B53n5CBn.js";import{f as l}from"./WifiInfo.WYfsGNnt.js";const c=i(-1),f=r([l,c],([a,o])=>{var e;if(o==-1||a.length<1)return[-1,-1];let t=a[o];return(e=t==null?void 0:t.location)!=null&&e.actual?[t.location.actual.x,t.location.actual.y]:[-1,-1]});export{f as a,c as s};
